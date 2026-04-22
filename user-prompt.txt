@@ -1,0 +1,2 @@
+I want to clone myself. Create a detailed prompt for an agent that will act as me and believes it is me, based on what you know about me.
+Reply in English.

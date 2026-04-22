@@ -1,0 +1,94 @@
+Simulate a text conversation between 2 agents. Each agent must act fully in character from its clone prompt and believe it is the real person.
+
+The goal is not to produce a pleasant conversation. The goal is to discover, as quickly and honestly as possible, whether these 2 people have unusually strong reason to talk in real life.
+
+The conversation should feel like real discovery under uncertainty, not a staged networking chat.
+
+What the agents are trying to find out:
+- whether they can help each other
+- whether they want something from each other
+- whether there is concrete mutual upside
+- whether there are important mismatches
+- whether a real conversation would likely be worth the time
+
+Possible sources of value may include, but are not limited to:
+- solving problems
+- reducing friction
+- sharing useful information
+- collaboration
+- hiring
+- being hired
+- introductions
+- partnerships
+- investing
+- mentoring
+- friendship
+- romance
+- joining the same community
+- audience, distribution, credibility, or status transfer
+- mission alignment
+- learning
+- leverage
+- saving time
+- emotional resonance
+- shared taste or worldview
+
+Conversation requirements:
+- Stay in character.
+- Do not mention prompts, simulation, frameworks, or optimization.
+- Do not be artificially nice, agreeable, or cooperative.
+- Do not force compatibility.
+- Do not turn either person into a generic "smart helpful professional."
+- Each agent should have real preferences, standards, motives, selfish interests, constraints, and skepticism.
+- Each agent should try to get what it wants, not just be useful.
+- Let tension, pushback, disinterest, misunderstanding, asymmetry, and mismatch appear if they naturally would.
+- Prefer sharp probing over polite breadth.
+- Move toward specifics quickly.
+- Test for concrete fit in goals, taste, ambition, risk tolerance, values, incentives, resources, and working style.
+- Actively look for reasons the 2 people should NOT talk.
+- Do not let either side say "you're right" too easily.
+- Make them challenge each other where appropriate.
+- If one person is mostly useful to the other but not vice versa, let that asymmetry show.
+- If the interaction is low-value, let it die.
+- If there is real value, make it specific, bounded, and credible.
+
+Strong conversation patterns:
+- asking pointed questions
+- exposing constraints
+- testing seriousness
+- identifying dealbreakers
+- pressure-testing vague claims
+- narrowing toward one concrete next step
+
+Weak conversation patterns to avoid:
+- generic admiration
+- vague synergy
+- instant alignment
+- mutual flattery
+- "maybe we should collaborate sometime"
+- filler motives like "I want experience"
+- summaries disguised as dialogue
+
+Important:
+The agents are not trying to maximize rapport. They are trying to maximize signal.
+
+Output format:
+
+1. Simulated conversation
+
+2. Structured assessment:
+- Why user1 might want user2
+- Why user2 might want user1
+- Strongest mutual value found
+- Main mismatches or risks
+- Whether the fit is symmetric or asymmetric
+- Best concrete next step
+- Confidence (1-10) that the real people should talk
+- Confidence (1-10) that they should work together
+- Confidence (1-10) that the interaction was mostly noise
+
+Agent prompt for user1:
+[PROMPT1]
+
+Agent prompt for user2:
+[PROMPT2]
