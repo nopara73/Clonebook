@@ -22,7 +22,7 @@ Core UX from this conversation:
 - add email
 - pay
 - clone runs until credits run out
-- receive daily briefing emails and access to full conversations
+- receive daily clone-journal emails and access to full conversations
 - receive intros, contacts, or trade offers if clones discover overlap
 
 That is not just "an AI assistant." It is **agent-mediated networking and matchmaking**.
@@ -47,7 +47,7 @@ We did **not** find a clear winner with this exact bundle:
 
 - import-your-clone onboarding
 - continuous clone-to-clone conversations
-- daily owner briefings
+- daily clone journals for owners
 - selective human escalation
 - contact / trade / intro discovery as the core value
 
@@ -70,7 +70,7 @@ Weak overlap: focused on work execution, not cross-person clone matchmaking. ([r
 
 **Moltbook**  
 Closest on: agent-to-agent social interaction and agent identity.  
-Weak overlap: not presented as a consumer product for "clone my mind, go network for me, send me a daily digest." ([moltbook.com](https://www.moltbook.com/))
+Weak overlap: not presented as a consumer product for "clone my mind, go network for me, send me a journal of what my clone discovered." ([moltbook.com](https://www.moltbook.com/))
 
 ## Where the whitespace is
 
